@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
-    description = "jenkinsfullydemokeppair"
-    default = "AUGUSTINE-TEPET"
+    description = "dev test"
+    default = "jenkinsfullydemokeppairT"
 }
 
 # variable "vpc_id" {
