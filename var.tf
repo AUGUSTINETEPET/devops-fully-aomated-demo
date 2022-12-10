@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "dev test"
-    default = "jenkinsfullydemokeppairT"
+    default = "cicdkeypair"
 }
 
 # variable "vpc_id" {
